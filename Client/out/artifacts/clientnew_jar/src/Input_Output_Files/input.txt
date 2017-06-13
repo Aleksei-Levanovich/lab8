@@ -1,0 +1,16 @@
+<Collection name="">
+	<Human name="TGU" age="120" loc="ZAEBIS"/>
+	<Human name="ne" age="10" loc="pizdi"/>
+	<Human name="gfsdf" age="40" loc="dsfds"/>
+	<Human name="piter" age="13" loc="gavno"/>
+	<Human name="lol" age="14" loc="protokol"/>
+	<Human name="fdgsfdq" age="40" loc="adfss"/>
+	<Human name="sdfadsf" age="40" loc="sdfadfsfg"/>
+	<Human name="Diman_pidor" age="19" loc="Samara"/>
+	<Human name="sdasdasd" age="40" loc="asdasdasd"/>
+	<Human name="asdasda" age="40" loc="asdadasdasd"/>
+	<Human name="ya_vse_viju" age="30" loc="asdadsd"/>
+	<Human name="Vanya_rifmoplet" age="18" loc="Tolyatti"/>
+	<Human name="pofiksi_bug_so_vremenem" age="30" loc="sdfafffff"/>
+	<Human name="hvatit_zapuskat_klienti" age="40" loc="asdasad?"/>
+</Collection>

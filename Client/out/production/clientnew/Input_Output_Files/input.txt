@@ -1,0 +1,7 @@
+<Collection name="">
+	<Human name="AAA" age="3" loc="DDD"/>
+	<Human name="ndsadnj" age="50" loc="asads"/>
+	<Human name="asdsa" age="40" loc="sfsdfsd"/>
+	<Human name="asdasd" age="40" loc="sadasda"/>
+	<Human name="dkcdeessAA" age="4" loc="dcddc"/>
+</Collection>
